@@ -6,3 +6,4 @@ Day12: 新增一個欄位 customized_age_grp，把 age 分為 (0, 10], (10, 20],
 Day13: 將年齡資料('DAYS_BIRTH' 除以365)離散化 & 繪製"離散化標籤"與目標值('TARGET')的長條圖(sns.barplot)<br>
 Day14: 使用subplot排版<br>
 Day15: 建立數值分布矩陣並繪製Heatmap & PairPlot(上半部為scatter,對角線為hist,下半部為density)
+Day17: 理解什麼是"特徵工程"的區塊 & 那些欄位屬於"類別型欄位"/哪個欄位是"目標值"?
