@@ -11,3 +11,4 @@ Day18: 觀察三種類型(int/float/object)的欄位分別進行(平均mean/最�
 Day23: 均值編碼實作 & 均值編碼與標籤編碼兩者比較<br>
 Day25: 時間型特徵 & 週期循環特徵  
 Day26: 經緯度  
+Day28: Feature_Selection -> 變更相關係數門檻值 & 使用 L1 Embedding (自訂門檻)  
